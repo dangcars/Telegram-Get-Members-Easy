@@ -1,5 +1,5 @@
-# Telegram-Users-Adder
-A Tool written in Python for TG to be able to manage members from group/channel
+# Telegram-Get-Members-Easy
+A tool made in Python (up to date in 2025) to get members on TG easily. Easy to use and with lots of other features!
 
 # 📁 GET IT HERE: https://shorturl.at/XD4xE
 # CONTACT FOR QUESTIONS: https://shorturl.at/qRqTq
